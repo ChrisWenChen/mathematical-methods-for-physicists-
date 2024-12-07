@@ -1,1 +1,1 @@
-# mathematical-methods-for-physicists-
+# mathematical-methods-for-physicists
